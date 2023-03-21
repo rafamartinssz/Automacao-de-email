@@ -16,7 +16,7 @@ Utilizando a IDE Pycharm, o código na linguagem python recebe uma base de dados
 
 Após a leitura dos dados, o código calcula o faturamento por loja, a quantidade de produtos vendidos por loja e o ticket médio por produto em cada loja.
 
-Por fim, o código envia um email automaticamente com o relatório com os dados tratados em tabelas para o endereço desejado.
+Por fim, o código envia um email automaticamente com o relatório possuindo os dados tratados em tabelas para o endereço desejado.
 
 ## Bibliotecas usadas
 
