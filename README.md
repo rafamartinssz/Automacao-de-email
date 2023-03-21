@@ -26,3 +26,8 @@ Foram usadas as bibliotecas **Pandas**, **Openpyxl**, e **Win32com.client.**
 
 - É necessário deixar o arquivo “Vendas” na mesma pasta do código para que ele seja lido
 - É necessário ter o Outlook baixado no PC para poder enviar o email
+- Na linha de código abaixo onde está “seuemailaqui@gmail.com” você substitui pelo email na qual você deseja enviar o relatório
+
+```python
+mail.To = 'seuemailaqui@gmail.com' #Endereço de email que vai enviar
+```
